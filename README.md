@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Keith Emanzi 👨🏾‍💻
 
-<!--
-**MansaMansa1/MansaMansa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pragmatic builder who thrives on solving real problems with clean code and sharp workflows.  
+Whether it's debugging a stubborn blank page or automating a tedious task, I get it done.
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
+- 🖥️ Front-end: HTML, CSS, JavaScript
+- ⚙️ Back-end: Python, Flask
+- 🛠️ Tools: VS Code, GitHub, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects in Progress
+- Personal website (built from scratch, no templates)
+- Automation scripts for daily workflows
+- Visa appointment system tracker refresher automated (because bureaucracy needs debugging too)
+
+## 🧩 How I Work
+- Persistent, methodical, and allergic to vague advice
+- Learn by doing, fix by iterating
+- Always optimizing—code, tools, and life
+
+## 🌍 Check Out My Site
+🔗 [keithemanzi.github.io](https://keithemanzi.github.io) — built from scratch, no templates
+
+
